@@ -10,6 +10,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
+              
               <div className="author-img"><Header/></div>
               <br></br>
               <h4 className="display-5">Praseedha Praveen Kalbhavi</h4>
@@ -24,8 +25,8 @@ export default class Sidebar extends Component {
               <a href="https://github.com/pskalbhav1" target="_blank" rel="noopener noreferrer"><FaGithub size={30} /></a>
               </nav>
               <br></br>
-              
-            </div>
+              </div>
+           
           </aside>
         </div>
       </div>

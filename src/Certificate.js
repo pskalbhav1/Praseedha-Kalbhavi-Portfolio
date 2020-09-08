@@ -9,7 +9,7 @@ import image5 from './5.png'
 import image7 from './7.png'
 import image8 from './8.png'
 import image10 from './10.png'
-
+import './App.css'
 
 
 function Certificate() {
