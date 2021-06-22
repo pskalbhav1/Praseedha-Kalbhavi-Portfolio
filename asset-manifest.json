@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Praseedha-Kalbhavi-Portfolio/static/css/main.99b9f70a.chunk.css",
+    "main.js": "/Praseedha-Kalbhavi-Portfolio/static/js/main.73f96194.chunk.js",
+    "main.js.map": "/Praseedha-Kalbhavi-Portfolio/static/js/main.73f96194.chunk.js.map",
+    "runtime-main.js": "/Praseedha-Kalbhavi-Portfolio/static/js/runtime-main.f52c91f9.js",
+    "runtime-main.js.map": "/Praseedha-Kalbhavi-Portfolio/static/js/runtime-main.f52c91f9.js.map",
+    "static/css/2.2885613b.chunk.css": "/Praseedha-Kalbhavi-Portfolio/static/css/2.2885613b.chunk.css",
+    "static/js/2.2447fa71.chunk.js": "/Praseedha-Kalbhavi-Portfolio/static/js/2.2447fa71.chunk.js",
+    "static/js/2.2447fa71.chunk.js.map": "/Praseedha-Kalbhavi-Portfolio/static/js/2.2447fa71.chunk.js.map",
+    "index.html": "/Praseedha-Kalbhavi-Portfolio/index.html",
+    "precache-manifest.38b4d84c6502a2cef6abb3c749336709.js": "/Praseedha-Kalbhavi-Portfolio/precache-manifest.38b4d84c6502a2cef6abb3c749336709.js",
+    "service-worker.js": "/Praseedha-Kalbhavi-Portfolio/service-worker.js",
+    "static/css/2.2885613b.chunk.css.map": "/Praseedha-Kalbhavi-Portfolio/static/css/2.2885613b.chunk.css.map",
+    "static/css/main.99b9f70a.chunk.css.map": "/Praseedha-Kalbhavi-Portfolio/static/css/main.99b9f70a.chunk.css.map",
+    "static/js/2.2447fa71.chunk.js.LICENSE.txt": "/Praseedha-Kalbhavi-Portfolio/static/js/2.2447fa71.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Praseedha-Kalbhavi-Portfolio/static/media/1.2f7908af.jpg",
+    "static/media/10.png": "/Praseedha-Kalbhavi-Portfolio/static/media/10.53144632.png",
+    "static/media/11.jpeg": "/Praseedha-Kalbhavi-Portfolio/static/media/11.f530d248.jpeg",
+    "static/media/12.jpeg": "/Praseedha-Kalbhavi-Portfolio/static/media/12.4c8aeba0.jpeg",
+    "static/media/2.jpg": "/Praseedha-Kalbhavi-Portfolio/static/media/2.eef2807c.jpg",
+    "static/media/3.jpg": "/Praseedha-Kalbhavi-Portfolio/static/media/3.4be4c7a0.jpg",
+    "static/media/4.png": "/Praseedha-Kalbhavi-Portfolio/static/media/4.44b8a90e.png",
+    "static/media/5.png": "/Praseedha-Kalbhavi-Portfolio/static/media/5.f11df316.png",
+    "static/media/6.jpeg": "/Praseedha-Kalbhavi-Portfolio/static/media/6.ac762f1e.jpeg",
+    "static/media/7.png": "/Praseedha-Kalbhavi-Portfolio/static/media/7.8cc2cbea.png",
+    "static/media/8.png": "/Praseedha-Kalbhavi-Portfolio/static/media/8.863dd9cb.png",
+    "static/media/9.jpeg": "/Praseedha-Kalbhavi-Portfolio/static/media/9.f2181b97.jpeg",
+    "static/media/Image.png": "/Praseedha-Kalbhavi-Portfolio/static/media/Image.43dbf1b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52c91f9.js",
+    "static/css/2.2885613b.chunk.css",
+    "static/js/2.2447fa71.chunk.js",
+    "static/css/main.99b9f70a.chunk.css",
+    "static/js/main.73f96194.chunk.js"
+  ]
+}
