@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "httpsnp://pskalbhav1.github.io/Praseedha-Kalbhavi-Portfolio",
+  "homepage": "http://pskalbhav1.github.io/Praseedha-Kalbhavi-Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
