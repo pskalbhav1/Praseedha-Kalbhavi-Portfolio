@@ -16,7 +16,7 @@ export default class Skills extends React.Component {
         
         {
           setup: "Languages",
-          punchline: "C, C++(STL), Python"
+          punchline: "C, C++(STL), Python, Java"
         },
         {
           setup: "FrontEnd",
@@ -24,11 +24,11 @@ export default class Skills extends React.Component {
         },
         {
           setup: "Backend",
-          punchline: "Python + Flask"
+          punchline: "Python + Flask, Numpy, Pandas, Matplotlib"
         },
         {
           setup: "Machine Learning",
-          punchline: "Image Processing using OpenCV"
+          punchline: "Image Processing using OpenCV, Voice Analysis"
         },
         {
           setup: "Deep Learning",

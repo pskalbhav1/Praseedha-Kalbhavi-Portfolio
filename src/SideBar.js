@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import Header from './Header'
+import Image from './Image.png'; 
+import './App.css'
 import {FaInstagram ,FaLinkedin ,FaGithub, FaFacebook } from "react-icons/fa";
 import {AiOutlineMail} from "react-icons/ai";
 export default class Sidebar extends Component {
@@ -11,12 +12,11 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               
-              <div className="author-img"><Header/></div>
+              <img src={Image} alt="Logo" class="response"/>
               <br></br>
-              <h4 className="display-5">Praseedha Praveen Kalbhavi</h4>
-              <AiOutlineMail size={20} /><span font-size="0.1" className="email" ><i className="fab fa-mail"></i> praseedhakalbhavi@gmail.com</span>
-              <br></br><br></br>
-              Contact Details:
+              <h5 className="display-6">Praseedha Praveen Kalbhavi</h5>
+              <div class="cursor"><AiOutlineMail size={20} /><span font-size="0.1" className="email" ><i className="fab fa-mail"></i><div class="cursor">praseedhakalbhavi@gmail.com</div></span>
+              <br></br><br></br></div>
               <br></br>
               <nav id="colorlib-main-menu">
               <a href="https://www.facebook.com/pskalbhavi" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} /> </a>

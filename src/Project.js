@@ -22,18 +22,20 @@ export class Project extends Component {
                 <SideBar/>
               </Col>
               <Col xs={8}>
-                <h4 className="display-5">My Projects</h4>
+                <h4 className="display-5">Personal Projects</h4>
                 <ListGroup>
-                  <ListGroupItem><b>1. OpenCV Projects: </b><br></br>Projects include Face Verification Model, Finger Counting Model, People Counter Model, Conversion of Image to Sketch using OpenCV features and extracting text from Images.<br></br>For more details, check out the <a href="https://github.com/pskalbhav1/OpenCV/tree/master/Projects">Source Code</a>.</ListGroupItem>
-                  <br></br>
-        
-                  <ListGroupItem><b>2. Movie Recommendation System:</b><br></br>This is Movie Recommendation Model which predicts movies based on Content Based Recommendation.<br></br>For more details, check out the <a href="https://github.com/pskalbhav1/Movie-Recommendation-System">Source Code</a>.</ListGroupItem>
-                  <br></br>
-        
-                  <ListGroupItem><b>3. HTML Games:</b><br></br>I tried creating few games using simple HTML, CSS and JS.<br></br>If you are interested in trying them out, don't forget to check out the <a href="https://github.com/pskalbhav1/HTML-Games">Source Code</a>.</ListGroupItem>
-                  <br></br>
+                  <ListGroupItem><b>1. Voice Prescription Builder:</b> A tool that helps doctors prepare prescriptions by taking in voice inputs.<br></br></ListGroupItem>
+                  <ListGroupItem><b>2. Face Verification Model:</b> A face verification tool that identifies people in live feed. This can be used as an API for login authentication in websites/mobile apps. <br></br></ListGroupItem>
+                  <ListGroupItem><b>3. Disease Detection on Tomato Leaves:</b> A CNN model which helps predict disease on tomato leaves on uploading input images.<br></br></ListGroupItem>
+                  <ListGroupItem><b>4. AI based Movie Recommendation System:</b> A recommendation System that predicts interesting movies based on the genre/movie chosen using a large existing dataset.<br></br></ListGroupItem>
+                  <ListGroupItem><b>5. Hand Finger Counting Model:</b> A model which accurately predicts the finger count on live feed. This can be used for password verifications at ATMs, door locks etc.<br></br></ListGroupItem>
+                  <ListGroupItem><b>6. Image to Sketch Convertor using Python:</b> A model which applies various image processing techniques to get sketches of uploaded images.<br></br></ListGroupItem>
+                  <ListGroupItem><b>7. Pdf/text file Reader using Python:</b> This tool helps visually impaired people enjoy the pleasures of reading by listening to the book.<br></br></ListGroupItem>
+                  <ListGroupItem><b>8. Text to Speech Conversion Model:</b> A tool that helps speech impaired people communicate effectively by using a real time text to speech convertor.<br></br></ListGroupItem>
+                  <ListGroupItem><b>9. Speech to text Conversion Model:</b> This tool helps hearing impaired people read and converse with others.<br></br></ListGroupItem>
+                  <ListGroupItem><b>10. Audio Segmentation Model in Python:</b> A model which helps segment audio files based on silence.<br></br></ListGroupItem>
+                  <ListGroupItem><b>11. Personalized Reminder Model:</b> A tool which gives out voice reminders at the set time.<br></br></ListGroupItem>
 
-                  <ListGroupItem><b>4. JS Projects:</b><br></br>Using the DOM (Document Object Module) in JS, I have tried to build a small dice game.<br></br>Check out the  <a href="https://github.com/pskalbhav1/JS-Projects">Source Code</a>.</ListGroupItem>
                   <hr></hr>
                 </ListGroup>
               </Col> 

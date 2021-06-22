@@ -29,6 +29,20 @@
     font-size: 80px;
   }
 }
+@media screen and (max-width: 600px) {
+  div.cursor {
+    display: none;
+  }
+}
+@media screen and ( max-width: 600px ) {
+  img.response { width: 100px; }
+  }
+  img.response{ height: auto; }
+
+@media screen and ( max-width: 600px ) {
+  img.responsive { width: 200px; }
+  }
+  img.responsive { height: auto; }
 
 /* If the screen size is 600px or less, set the font-size of <div> to 30px */
 @media only screen and (max-width: 600px) {
